@@ -1,5 +1,8 @@
 _repo: Deutsche-und-Franzosische-Orgelbaukunst-und-Orgelkunst_69893
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69893-h/images/cover.jpg
 creator:
   author:
     agent_name: Schweitzer, Albert
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '42712'
     url: http://www.gutenberg.org/2009/agents/42712
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69893#Deutsche-und-Franzosische-Orgelbaukunst-und-Orgelkunst
 gutenberg_issued: '2023-01-28'
 identifiers:
   gutenberg: '69893'
